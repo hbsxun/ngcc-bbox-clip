@@ -1,5 +1,5 @@
 {
-  "name": "turf-bbox-clip",
+  "name": "ngcc-bbox-clip",
   "version": "1.0.0",
   "description": "Fast clipping of lines and polygons against a bbox",
   "main": "index.js",
