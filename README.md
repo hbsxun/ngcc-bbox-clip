@@ -1,5 +1,5 @@
-# turf-bbox-clip
-
+# ngcc-bbox-clip
+# forked from Turfjs/turf-bbox-clip
 Fast clipping of lines and polygons against a bbox
 
 
